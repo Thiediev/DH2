@@ -15,6 +15,9 @@ const TWO_TURN_MOVES = ['dig', 'fly', 'razorwind', 'skullbash', 'skyattack', 'so
 export const Scripts: ModdedBattleScriptsData = {
 	inherit: 'gen2',
 	gen: 1,
+	teambuilderConfig: {
+		excludeStandardTiers: true
+	},
 	init() {
 		for (const i in this.data.Pokedex) {
 			(this.data.Pokedex[i] as any).gender = 'N';
