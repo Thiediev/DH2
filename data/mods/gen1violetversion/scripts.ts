@@ -16,7 +16,8 @@ export const Scripts: ModdedBattleScriptsData = {
 	inherit: 'gen2',
 	gen: 1,
 	teambuilderConfig: {
-		excludeStandardTiers: true
+		excludeStandardTiers: true,
+		customTiers: ["Violet"],
 	},
 	init() {
 		for (const i in this.data.Pokedex) {
