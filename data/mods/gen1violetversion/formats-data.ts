@@ -11,6 +11,14 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		inherit: true,
 		tier: "Violet",
 	},
+	chansey: {
+		inherit: true,
+		tier: "Violet",
+	},
+	cloyster: {
+		inherit: true,
+		tier: "Violet",
+	},
 	beedrill: {
 		inherit: true,
 		tier: "Violet",
@@ -31,6 +39,10 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		inherit: true,
 		tier: "Violet",
 	},
+	gengar: {
+		inherit: true,
+		tier: "Violet",
+	},
 	golbat: {
 		inherit: true,
 		tier: "Violet",
@@ -48,6 +60,10 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "Violet",
 	},
 	golduck: {
+		inherit: true,
+		tier: "Violet",
+	},
+	golem: {
 		inherit: true,
 		tier: "Violet",
 	},
@@ -76,6 +92,14 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "Violet",
 	},
 	electrode: {
+		inherit: true,
+		tier: "Violet",
+	},
+	exeggutor: {
+		inherit: true,
+		tier: "Violet",
+	},
+	jynx: {
 		inherit: true,
 		tier: "Violet",
 	},
@@ -123,7 +147,19 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		inherit: true,
 		tier: "Violet",
 	},
+	slowbro: {
+		inherit: true,
+		tier: "Violet",
+	},
+	snorlax: {
+		inherit: true,
+		tier: "Violet",
+	},
 	starmie: {
+		inherit: true,
+		tier: "Violet",
+	},
+	tauros: {
 		inherit: true,
 		tier: "Violet",
 	},
@@ -132,6 +168,10 @@ export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 		tier: "Violet",
 	},
 	mew: {
+		inherit: true,
+		tier: "Violet",
+	},
+	zapdos: {
 		inherit: true,
 		tier: "Violet",
 	},
