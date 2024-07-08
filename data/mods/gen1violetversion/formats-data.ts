@@ -1,138 +1,138 @@
 export const FormatsData: {[k: string]: ModdedSpeciesFormatsData} = {
 	charizard: {
 		inherit: true,
-		tier: "OU",
+		tier: "Violet",
 	},
 	blastoise: {
 		inherit: true,
-		tier: "OU",
+		tier: "Violet",
 	},
 	butterfree: {
 		inherit: true,
-		tier: "OU",
+		tier: "Violet",
 	},
 	beedrill: {
 		inherit: true,
-		tier: "OU",
+		tier: "Violet",
 	},
 	pidgeot: {
 		inherit: true,
-		tier: "OU",
+		tier: "Violet",
 	},
 	arbok: {
 		inherit: true,
-		tier: "OU",
+		tier: "Violet",
 	},
 	nidoqueen: {
 		inherit: true,
-		tier: "OU",
+		tier: "Violet",
 	},
 	ninetales: {
 		inherit: true,
-		tier: "OU",
+		tier: "Violet",
 	},
 	golbat: {
 		inherit: true,
-		tier: "OU",
+		tier: "Violet",
 	},
 	vileplume: {
 		inherit: true,
-		tier: "OU",
+		tier: "Violet",
 	},
 	parasect: {
 		inherit: true,
-		tier: "OU",
+		tier: "Violet",
 	},
 	dugtrio: {
 		inherit: true,
-		tier: "OU",
+		tier: "Violet",
 	},
 	golduck: {
 		inherit: true,
-		tier: "OU",
+		tier: "Violet",
 	},
 	poliwrath: {
 		inherit: true,
-		tier: "OU",
+		tier: "Violet",
 	},
 	alakazam: {
 		inherit: true,
-		tier: "OU",
+		tier: "Violet",
 	},
 	machamp: {
 		inherit: true,
-		tier: "OU",
+		tier: "Violet",
 	},
 	magneton: {
 		inherit: true,
-		tier: "OU",
+		tier: "Violet",
 	},
 	muk: {
 		inherit: true,
-		tier: "OU",
+		tier: "Violet",
 	},
 	hypno: {
 		inherit: true,
-		tier: "OU",
+		tier: "Violet",
 	},
 	electrode: {
 		inherit: true,
-		tier: "OU",
+		tier: "Violet",
 	},
 	tangela: {
 		inherit: true,
-		tier: "OU",
+		tier: "Violet",
 	},
 	electabuzz: {
 		inherit: true,
-		tier: "OU",
+		tier: "Violet",
 	},
 	magmar: {
 		inherit: true,
-		tier: "OU",
+		tier: "Violet",
 	},
 	pinsir: {
 		inherit: true,
-		tier: "OU",
+		tier: "Violet",
 	},
 	gyarados: {
 		inherit: true,
-		tier: "OU",
+		tier: "Violet",
 	},
 	flareon: {
 		inherit: true,
-		tier: "OU",
+		tier: "Violet",
 	},
 	porygon: {
 		inherit: true,
-		tier: "OU",
+		tier: "Violet",
 	},
 	kabutops: {
 		inherit: true,
-		tier: "OU",
+		tier: "Violet",
 	},
 	aerodactyl: {
 		inherit: true,
-		tier: "OU",
+		tier: "Violet",
 	},
 	articuno: {
 		inherit: true,
-		tier: "OU",
+		tier: "Violet",
 	},
 	moltres: {
 		inherit: true,
-		tier: "OU",
+		tier: "Violet",
 	},
 	starmie: {
 		inherit: true,
-		tier: "OU",
+		tier: "Violet",
 	},
 	dragonite: {
 		inherit: true,
-		tier: "OU",
+		tier: "Violet",
 	},
 	mew: {
 		inherit: true,
-		tier: "OU",
+		tier: "Violet",
 	},
 };
